@@ -62,7 +62,7 @@ The dashboard tracks the following business metrics:
 
 # 📈 Dashboard 1 — Executive Summary
 
-![Summary Dashboard](Images/Summary%20Dashboard.png)
+![Summary Dashboard](Images/Summary.png)
 
 The Executive Summary provides a high-level overview of the bank's lending portfolio.
 
@@ -80,7 +80,7 @@ The Executive Summary provides a high-level overview of the bank's lending portf
 
 # 📉 Dashboard 2 — Loan Overview
 
-![Overview Dashboard](Images/Overview%20Dashboard.png)
+![Overview Dashboard](Images/Overview.png)
 
 The Overview Dashboard focuses on identifying trends and borrower characteristics.
 
@@ -97,7 +97,7 @@ The Overview Dashboard focuses on identifying trends and borrower characteristic
 
 # 📄 Dashboard 3 — Detailed Loan Report
 
-![Details Dashboard](Images/Details%20Dashboard.png)
+![Details Dashboard](Images/Details.png)
 
 The Detailed Dashboard enables users to explore individual loan records through interactive filtering and drill-down capabilities.
 
